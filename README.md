@@ -1,4 +1,4 @@
-![CI](https://github.com/<your-username>/<your-repo-name>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/alesala04/PortfolioOpt/actions/workflows/ci.yml/badge.svg)
 Project regarding CAPM and CML, through Markowitz's Portfolio Theory
 
 -----
